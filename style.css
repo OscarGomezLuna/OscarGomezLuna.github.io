@@ -1,0 +1,54 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25 jun. 2023, 10:47:33
+    Author     : oscar arcadio gómez luna
+*/
+nav {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.tam{height: 100px;}
+.tam-central{height: 800px;}
+.tam-m{height: 400px;}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+#text { 
+    padding-top: 150px;
+    padding-bottom: 100px;
+    font-size: 1em;
+    color: white;
+}
+#text2 { 
+    padding-top: 150px;
+    padding-bottom: 100px;
+    font-size: 1em;
+    color: white;
+}
+#text3 { 
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-size: 1em;
+    color: black;
+}
+#imagen {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+nav {
+    background-color: black;
+}
+.col-sm-1 {
+    height: 0px;
+}
+#h_index {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
